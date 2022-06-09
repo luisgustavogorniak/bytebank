@@ -1,2 +1,2 @@
 # bytebank
-Criação de banco virtual simples com clientes e funcionários e sistemas de conta e autenticação
+Creation of a simple virtual banking with clients, staff and account authentication system.
